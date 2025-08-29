@@ -1,0 +1,52 @@
+{
+  "id": "ec463e61-a101-441d-ff5d-12a14141ab14",
+  "name": "Production Change Note",
+  "publisher": "ISPL",
+  "version": "1.0.0.5",  
+  "url": "https://www.intech-systems.com",
+  "logo": "",
+  "applicationInsightsConnectionString": "",
+  "dependencies": [
+    {
+      "id": "707951bd-bc26-4206-b972-5788b1adc3c8",
+      "name": "ISPL Advance Approval",
+      "publisher": "Intech Systems Pvt Ltd.",
+      "version": "1.0.0.6"
+    },
+    {
+      "id": "a708e2e0-24e5-4d8b-ae40-4941aae6b336",
+      "name": "Purchase Indent",
+      "publisher": "ISPL",
+      "version": "1.0.0.11"
+    },
+    {
+      "id": "1d294689-c045-4c5a-a2c2-4026810571b2",
+      "name": "Kemipex Development_TableOnly",
+      "publisher": "ISPL",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "cea8e57e-050e-4880-840c-454ceb2e3f18",
+      "name": "Quality Control",
+      "publisher": "ISPL",
+      "version": "1.0.0.15"
+    }
+  ],
+  "screenshots": [],
+  "features": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 81180,
+      "to": 81229
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BusinesscentralIN.com/help/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0"
+}
